@@ -22,7 +22,9 @@ public class FactBook
             "Shigeru Miyamoto once hinted in an interview with Nintendo Power that Mario might wear 'metal clothes'. 5 years later, Metal Mario came into existance in Super Mario 64",
             "Pikmin was influenced by Miyamoto's hobby of gardening.",
             "The Mario Bros arcade game concieved as Nintendo's first forray into multiplayer gaming.",
-            "Bowser's Japanese name is Koopa （クッパ）"};
+            "Bowser's Japanese name is Koopa （クッパ）",
+            "Initally, Donkey Kong Junior was planned to be a part of Donkey Kong Country, but Nintendo nixed that.",
+            "Star Fox (SNES) was released in North America in March 1993."};
     public  String getFact()
     {
 
